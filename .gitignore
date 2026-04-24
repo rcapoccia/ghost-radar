@@ -1,0 +1,35 @@
+# Env
+.env
+*.env.local
+backend/.env
+
+# Node
+node_modules/
+app/node_modules/
+backend/node_modules/
+
+# Expo
+app/.expo/
+app/dist/
+app/web-build/
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+
+# EAS
+app/google-services-key.json
+app/android/app/google-services.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
