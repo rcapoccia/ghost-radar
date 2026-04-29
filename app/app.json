@@ -29,13 +29,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": [
-      "expo-haptics"
-    ],
     "extra": {
       "eas": {
-        "projectId": "your-eas-project-id"
+        "projectId": "66cdac98-dd12-43b0-903b-4b7a3aaf8aa9"
       }
-    }
+    },
+    "owner": "roberto_capoccia"
   }
 }
