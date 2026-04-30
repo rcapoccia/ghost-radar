@@ -24,7 +24,8 @@
       },
       "package": "com.ghostradar.app",
       "versionCode": 1,
-      "permissions": []
+      "permissions": [],
+      "kotlinVersion": "1.9.25"
     },
     "web": {
       "favicon": "./assets/favicon.png"
